@@ -1,2 +1,2 @@
 # Project-Wildbeast
- Projeto do curso CSS-Grid Layout da Origamid
+Practice project of the CSS grid layout course from Origamid, taught by Professor Andre Rafael from ORIGAMID.
